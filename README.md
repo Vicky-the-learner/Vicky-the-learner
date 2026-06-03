@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Vicky
 
-<!--
-**Vicky-the-learner/Vicky-the-learner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Cybersecurity Enthusiast
+
+🐍 Python Learner
+
+🤖 AI Development Enthusiast
+
+---
+
+## Current Goals (June 2026)
+
+- Complete 3 Projects
+- Earn 3 Certificates
+- Complete 15+ TryHackMe Rooms
+- Improve GitHub Portfolio
+- Secure an Internship
+
+---
+
+## Skills
+
+### Programming
+- Python
+- SQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Kali Linux
+
+### Interests
+- Cybersecurity
+- Artificial Intelligence
+- Full Stack Development
+
+---
+
+## Projects
+
+### Password Generator
+A Python-based password generator that creates secure random passwords.
+
+More projects coming soon...
+
+---
+
+⭐ Learning and building every day.
