@@ -37,7 +37,6 @@
 ### Interests
 - Cybersecurity
 - Artificial Intelligence
-- Full Stack Development
 
 ---
 
